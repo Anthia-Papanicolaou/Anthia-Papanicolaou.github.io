@@ -2,11 +2,12 @@
 	width:100%;
 }
 .photo-two{
-	width:100%;
+	height:auto;
+	width:80%;
 }
 .photo-three{
-	width:100%;
-	height:70%;
+	width:70%;
+	height:auto;
 }
 body{
 	background-color:darkblue;
@@ -16,6 +17,7 @@ p{
 	font-size:18px;
 }
 .deutero{
+	text-align:center;
 	background-color:yellow;
 }
 .prwto{
@@ -23,9 +25,16 @@ p{
 }
 
 h1{
+	font-size: 80px;
 	color:white;
 	text-align:center;
 }
 .trito{
-	background-color:yellow;
+	background-color:yellow}
+div{
+	margin-bottom:60px;
+}
+
+.row{
+	padding-top:60px;
 }
