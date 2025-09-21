@@ -1,0 +1,31 @@
+.first-photo{
+	width:100%;
+}
+.photo-two{
+	width:100%;
+}
+.photo-three{
+	width:100%;
+	height:70%;
+}
+body{
+	background-color:darkblue;
+}
+p{
+	color:black;
+	font-size:18px;
+}
+.deutero{
+	background-color:yellow;
+}
+.prwto{
+	background-color:yellow;
+}
+
+h1{
+	color:white;
+	text-align:center;
+}
+.trito{
+	background-color:yellow;
+}
